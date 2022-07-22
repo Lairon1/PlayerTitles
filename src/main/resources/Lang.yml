@@ -1,0 +1,8 @@
+Prefix: "&7[&6Титулы&7] "
+Messages:
+  OnlyPlayer: "%PREFIX% Эту команду могут использовать только игроки."
+  Reload: "%PREFIX% Новые титулы &6успешно&7 загружены."
+  Reset: "%PREFIX% Вы успешно &cсбросили&7 титул."
+  NotFound: "%PREFIX% Этого титула не существует."
+  DontHave: "%PREFIX% У вас нет этого титула"
+  SuccessfullySet: "%PREFIX% Вы успешно установили себе титул %TITLE%"

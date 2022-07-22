@@ -1,0 +1,10 @@
+name: PlayerTitles
+version: '${project.version}'
+main: com.lairon.plugin.playertitles.PlayerTitles
+depend: [ PlaceholderAPI ]
+authors: [ Lairon1 ]
+description: Титулы для игроков
+website: https://vk.com/mysouliscry
+api-version: 1.13
+commands:
+  titul:

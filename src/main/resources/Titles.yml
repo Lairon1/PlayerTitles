@@ -1,0 +1,204 @@
+titles:
+  grifer:
+    Title: "&cГрифер"
+    Skull: "null"
+  chiter:
+    Title: "&5Читерюга"
+    Skull: "null"
+  XxX:
+    Title: "&aXxX"
+    Skull: "null"
+  gul:
+    Title: "&cГуль"
+    Skull: "null"
+  Cutie:
+    Title: "&dМилашка"
+    Skull: "null"
+  god:
+    Title: "&6&lБог"
+    Skull: "null"
+  bot:
+    Title: "&6&lБотяра"
+    Skull: "null"
+  krash:
+    Title: "&d❤ Краш ❤"
+    Skull: "null"
+  1x1:
+    Title: "&c1x1"
+    Skull: "null"
+  chezar:
+    Title: "&cЦезарь"
+    Skull: "null"
+  lico:
+    Title: "&4-Лицо"
+    Skull: "null"
+  father:
+    Title: "&cОтец"
+    Skull: "null"
+  1x3:
+    Title: "&c1x3"
+    Skull: "null"
+  XXL:
+    Title: "&9XXL"
+    Skull: "null"
+  Vegetable:
+    Title: "&2Овощь"
+    Skull: "null"
+  Bayter:
+    Title: "&eБайтер"
+    Skull: "null"
+  PRO:
+    Title: "&0PRO"
+    Skull: "null"
+  Shaman:
+    Title: "&dШаман"
+    Skull: "null"
+  You:
+    Title: "&c-ты"
+    Skull: "null"
+  Zashkvar:
+    Title: "&6Зашквар"
+    Skull: "Setonex"
+  ZXC:
+    Title: "&4≼ZXC≽"
+    Skull: "Setonex"
+  Teamm:
+    Title: "§4&lTeam ✯"
+    Skull: "null"
+  OneTap:
+    Title: "§4&lOneTap ☠"
+    Skull: "Onetap"
+  SSSR:
+    Title: "§4&lSSSR ⚒"
+    Skull: "TaqticalGods"
+
+  #------------------------------------
+  # Аниме титулы
+  #------------------------------------
+  Tempest:
+    Title: "&d☯Tempest☯"
+    Skull: "Exoroy"
+  SSS:
+    Title: "&c↿ṨṨṨ↾"
+    Skull: "RallyeMeister"
+  Animeshik:
+    Title: "&dАнимешник"
+    Skull: "zabiecc"
+  HUNTER:
+    Title: "&4&l◄ HUNTER ►"
+    Skull: "LmaoZedong69"
+  Baka:
+    Title: "&b&lバカ"
+    Skull: "Baka"
+  Mudzan:
+    Title: "&4Мудзан"
+    Skull: "Fondateurs"
+  Bankai:
+    Title: "&4Банкай"
+    Skull: "Zeritof"
+  Ichigo:
+    Title: "&0Ичиго"
+    Skull: "Meezzzzz"
+  Killua:
+    Title: "&b&lKillua ↯"
+    Skull: "strukcjaa"
+  Dororo:
+    Title: "&4Дороро ⚔"
+    Skull: "__Clint__"
+
+  #------------------------------------
+  # Титулы с анимацией
+  #------------------------------------
+  WatsUP:
+    Title: "§aWhat's up! (A)"
+    Skull: "Null"
+    Animation:
+      - "§aWhat's up§f|"
+      - "§aWhat's u§f|"
+      - "§aWhat's §f|"
+      - "§aWhat's§f|"
+      - "§aWhat'§f|"
+      - "§aWha!§f|"
+      - "§aWha§f|"
+      - "§aWh§f|"
+      - "§aW§f|"
+      - "§a§f|"
+      - "§aW§f|"
+      - "§aWh§f|"
+      - "§aWha§f|"
+      - "§aWhat§f|"
+      - "§aWhat'§f|"
+      - "§aWhat's§f|"
+      - "§aWhat's §f|"
+      - "§aWhat's u§f|"
+      - "§aWhat's up§f|"
+      - "§aWhat's up!§f|"
+      - "§aWhat's up!"
+      - "§aWhat's up!§f|"
+      - "§aWhat's up!"
+      - "§aWhat's up!§f|"
+      - "§aWhat's up!"
+      - "§aWhat's up!§f|"
+      - "§aWhat's up!"
+      - "§aWhat's up!§f|"
+    Speed: 0.5
+  Rainbow:
+    Title: "§bR§9a§ai§en§cb§6o§bw §a(A)"
+    Skull: "Null"
+    Animation:
+      - "§bRainbow"
+      - "§9Rainbow"
+      - "§aRainbow"
+      - "§eRainbow"
+      - "§cRainbow"
+      - "§6Rainbow"
+      - "§bRainbow"
+    Speed: 1
+  Sumbol:
+    Title: "§aぁ §a(A)"
+    Skull: "Null"
+    Animation:
+      - "§aぁ"
+      - "§aあ"
+      - "§aぃ"
+      - "§aな"
+      - "§aま"
+      - "§aろ"
+      - "§aシ"
+      - "§aげ"
+      - "§aド"
+      - "§aダ"
+    Speed: 1
+  Go1na1:
+    Title: "§4§lГо 1 на 1 изичка §a(A)"
+    Skull: "Null"
+    Animation:
+      - "§4Го"
+      - "§41x1"
+      - "§4изичка"
+    Speed: 0.3
+  Fuck_you:
+    Title: "§4Fuck you! §a(A)"
+    Skull: "Null"
+    Animation:
+      - "§4§lFuck you!"
+      - "§4§lFucked up!"
+      - "§4§lFuckboy!"
+      - "§4§lWhat's up!"
+    Speed: 0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
